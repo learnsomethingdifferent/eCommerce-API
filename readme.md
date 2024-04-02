@@ -26,8 +26,6 @@ A secure and scalable Node.js API for user authentication and authorization, ban
 
    - PORT =3 000
    - MONGODB_URI = mongodb://localhost:27017/your-databaseName
-   - EMAIL_USER = your-email@gmail.com
-   - EMAIL_PASSWORD = your-email-password
    - JWT_SECRET = your-jwt-secret
    - SMTP_HOST = smtp.example.com
    - SMTP_PORT= your-smpt-port
